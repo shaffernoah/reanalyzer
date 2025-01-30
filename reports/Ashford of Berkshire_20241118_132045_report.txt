@@ -1,0 +1,31 @@
+================================================================================
+REAL ESTATE DEVELOPMENT PROJECT ANALYSIS REPORT
+Project: Ashford of Berkshire
+Date: 2024-11-18 13:20:45
+================================================================================
+
+EXECUTIVE SUMMARY
+Overall Project Score: 0.38/1.00
+
+DETAILED ANALYSIS
+
+Financial Analysis
+------------------
+Total Cost: $24,244,010.00
+Expected Revenue: $3,311,953.00
+ROI: -86.34%
+Development Period: 24.0 months
+Interest Rate: 6.7%
+Equity Percentage: 25.0%
+Category Score: 0.00
+Summary: The project shows a -86.3% ROI with a financial viability score of 0.00
+
+Market Analysis
+---------------
+Market Size: $250000000.0M
+Growth Rate: 31.0%
+Competition Level: 6.0/10
+Demand Score: 8.0/10
+Absorption Rate: 15.0%
+Category Score: 0.75
+Summary: Market conditions show 31.0% growth with a market viability score of 0.75

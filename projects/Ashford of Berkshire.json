@@ -1,0 +1,30 @@
+{
+    "project_name": "Ashford of Berkshire",
+    "overall_score": 0.37625,
+    "categories": {
+        "financial": {
+            "name": "Financial",
+            "data": {
+                "total_cost": 24244010.0,
+                "expected_revenue": 3311953.0,
+                "development_period": 24.0,
+                "interest_rate": 6.7,
+                "equity_percentage": 25.0
+            },
+            "score": 0.0,
+            "weight": 1.0
+        },
+        "market": {
+            "name": "Market",
+            "data": {
+                "market_size": 250000000.0,
+                "growth_rate": 31.0,
+                "competition_level": 6.0,
+                "demand_score": 8.0,
+                "absorption_rate": 15.0
+            },
+            "score": 0.7525,
+            "weight": 1.0
+        }
+    }
+}
